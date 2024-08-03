@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: TodoListApp
+  data:
+    mongodb:
+      uri: mongodb+srv://debasish1708:admin@cluster0.kbh2k5k.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: TO_DO_APP
+      auto-index-creation: true
